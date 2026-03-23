@@ -4,6 +4,7 @@ import time
 
 while True:
     os.system('cls' if os.name == 'nt' else 'clear')
+    print(" ")
     print("<>_____")
     print("  \_\\\\/-<")
     print("     \\\\")
@@ -12,4 +13,5 @@ while True:
     print("     //")
     print("<>__//_")
     print("  \___/-<")
+    print(" ")
     time.sleep(1)
